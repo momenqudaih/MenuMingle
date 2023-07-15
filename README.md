@@ -65,10 +65,11 @@ After successfully completing the payment process, I will receive a confirmation
 # Demo 🔥
 You can check out a live demo of the application <a href='#'>here</a>.
 
-# Figma Design 
+#  Figma Design UI's
 #### customer :
 
-<img src=./img/SplashScreen.png style='height:150px'> <img src=./img/menu.png style='height:150px'> <img src=./img/emptycart.png style='height:150px'> <img src=./img/cart.png style='height:150px'> <img src=./img/pending.png style='height:150px'>
+<img src=./img/SplashScreen.png style='height:150px'> <img src=./img/menu.png style='height:150px'> 
+<img src=./img/cart.png style='height:150px'> <img src=./img/pending.png style='height:150px'>
 <img src=./img/done.png style='height:150px'> <img src=./img/done2.png style='height:150px'>
 
 #### staff :
