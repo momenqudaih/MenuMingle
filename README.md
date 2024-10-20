@@ -56,7 +56,6 @@ After successfully completing the payment process, I will receive a confirmation
 - Node.js
 - Express.js 
 - PostgresSQL with sequelize
-- Socket.io (for real-time updates)
 - JWT (JSON Web Tokens) for authentication
 #### Deployment:
 - RDS
